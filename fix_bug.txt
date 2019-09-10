@@ -1,0 +1,4 @@
+>git status
+>git add fix bug.txt
+>git commit -m "fix bug"
+>git push
